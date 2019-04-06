@@ -1,0 +1,11 @@
+build
+levenshtein_distance.py 
+levenshtein_wrap.cxx
+a.out                   
+__pycache__/
+_levenshtein.so
+_levenshtein_distance.py
+levenshtein.py
+levenshtein.pyc
+levenshtein_wrap.c
+*.swp
