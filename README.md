@@ -1,6 +1,6 @@
 # Editdistance
 
-Implementation of the edit distance (`Levenshtein distance <http://en.wikipedia.org/wiki/Levenshtein_distance>`_ ),  support C/C++ && Python interface.
+Implementation of the edit distance [Levenshtein distance](http://en.wikipedia.org/wiki/Levenshtein_distance),  support C/C++ && Python interface.
 
 ## Install
 ```

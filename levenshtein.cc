@@ -13,7 +13,7 @@
 #include <assert.h>
 #include <cstring>
 
-int levenshtein_distance(char const *src, size_t const src_len, char const *dst, size_t const dst_len) {
+int levenshtein_distance(const char *src, const size_t src_len, const char *dst, const size_t dst_len) {
     assert(src != NULL && dst != NULL);
 
     if (src == dst) {
